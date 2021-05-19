@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Structures\bin\Debug\netcoreapp3.1\Structures.exe
+C:\Users\Satya Maddila\source\repos\Structures\bin\Debug\netcoreapp3.1\Structures.deps.json
+C:\Users\Satya Maddila\source\repos\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Structures\bin\Debug\netcoreapp3.1\Structures.dll
+C:\Users\Satya Maddila\source\repos\Structures\bin\Debug\netcoreapp3.1\Structures.pdb
+C:\Users\Satya Maddila\source\repos\Structures\obj\Debug\netcoreapp3.1\Structures.dll
+C:\Users\Satya Maddila\source\repos\Structures\obj\Debug\netcoreapp3.1\Structures.pdb
+C:\Users\Satya Maddila\source\repos\Structures\obj\Debug\netcoreapp3.1\Structures.genruntimeconfig.cache
